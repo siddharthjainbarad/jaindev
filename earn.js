@@ -1,6 +1,6 @@
 $(document).ready(function() {
-$('#2').attr('href','http://the-pocket-money.com/pm/edcb4e14db3446d4f2548b33c6a85f31').text("Pocket Money (Best)");
-$('#3').attr('href','http://www.freeb.in/FreeB/ws/invite/W_6ET30637').text("FreeB (Excellent)");
+$('#3').attr('href','http://the-pocket-money.com/pm/edcb4e14db3446d4f2548b33c6a85f31').text("Pocke (Excellent)");
+$('#2').attr('href','http://www.freeb.in/FreeB/ws/invite/W_6ET30637').text("FreeB (Best)");
 $('#4').attr('href','https://www.fokat.co.in/fkt/ws/invite/F1DW7N635').text("Fokat Money (Excellent)");
 $('#1').attr('href','http://180364.earntalktime.com').text("Earn Talktime (Best)");
 $('#5').attr('href','http://share.tbal.io/v2/app?m=1&code=2VCKZTJR').text("True Balance (Very Good)");
