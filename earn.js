@@ -7,6 +7,6 @@ $('#6').attr('href','http://share.tbal.io/v2/app?m=1&code=2YUGF36A').text("True 
 $('#7').attr('href','https://42.slde.io/c9ee791b').text("Slide (Very Good)");
 $('#8').attr('href','https://mcent.com/app/?mcode=89FRCZ&tcx=OTHR').text("MCent (Very Good)");
 $('#9').attr('href','http://ladooo.com/304646008').text("Ladoo (Good)");
-$('#3').attr('href','http://mangorecharge.com/a/r.php?r=NTg5OTk2Yzg0ZDgyZA').text("MANGO (Excellent)");
+//$('#3').attr('href','http://mangorecharge.com/a/r.php?r=NTg5OTk2Yzg0ZDgyZA').text("MANGO (Excellent)");
 $('#10').attr('href','http://tbk.bz/j7ynguyg').text("Task Bucks (OK)");
 })
