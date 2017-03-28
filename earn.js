@@ -1,6 +1,6 @@
 $(document).ready(function() {
 $('#2').attr('href','http://www.freeb.in/FreeB/ws/invite/W_6ET30637').text("FreeB (Best)");
-$('#1').attr('href','http://180875.earntalktime.com').text("Earn Talktime (Best)");
+$('#1').attr('href','http://27162991.earntalktime.com').text("Earn Talktime (Best)");
 $('#4').attr('href','http://the-pocket-money.com/pm/edcb4e14db3446d4f2548b33c6a85f31').text("Pocket Money (Excellent)");
 $('#3').attr('href','https://www.fokat.co.in/fkt/ws/invite/F1DW7N635').text("Fokat Money (Excellent)");
 $('#6').attr('href','https://cashboss.in/invite?refcode=3BC487&source=referral').text("Cash Boss (Very Good)");
