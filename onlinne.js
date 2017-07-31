@@ -5,7 +5,7 @@ $('#13').attr('href','http://buxp.org/').text("3. BuxP");
 $('#14').attr('href','https://www.paidverts.com/').text("4. Paidverts");
 
 $('#21').attr('href','https://www.inboxdollars.com/').text("1. InboxDollars");
-$('#22').attr('href','https://www.cashcrate.com/').text("2. CashCrate");
+$('#22').attr('href','http://www.cashcrate.com/7453565').text("2. CashCrate");
 $('#23').attr('href','https://www.swagbucks.com/').text("3. Swagbucks");
 $('#24').attr('href','http://csl.ink/3mWC').text("4. Clixsense");
 $('#25').attr('href','https://www.treasuretrooper.com/').text("5. TreasureTrooperx");
