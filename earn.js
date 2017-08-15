@@ -10,5 +10,5 @@ $('#7').attr('href','https://www.uber.com/invite/siddharthj3830ue').text("Free U
 $('#8').attr('href','https://42.slde.io/c9ee791b').text("Slide (Very Good)");
 $('#9').attr('href','https://mcent.com/app/?mcode=89FRCZ&tcx=OTHR').text("MCent (Very Good)");
 $('#10').attr('href','http://champcash.com/9589745').text("ChampCash 9589745 (Very Good)");
-
+https://phon.pe/ru_siddl4rm
 })
